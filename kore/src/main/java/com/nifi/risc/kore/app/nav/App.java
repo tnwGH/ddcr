@@ -1,4 +1,4 @@
-package com.nifi;
+package com.nifi.risc.kore.app.nav;
 
 /**
  * Hello world!

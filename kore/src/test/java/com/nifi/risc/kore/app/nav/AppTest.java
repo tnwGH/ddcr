@@ -1,4 +1,4 @@
-package com.nifi;
+package com.nifi.risc.kore.app.nav;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
